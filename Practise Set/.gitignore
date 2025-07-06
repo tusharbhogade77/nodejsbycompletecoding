@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Coverage and build output
+coverage/
+dist/
+build/
+
+# Misc
+*.tgz
+
+# Optional: Ignore local data
+*.local
